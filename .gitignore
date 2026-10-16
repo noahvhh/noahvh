@@ -5,7 +5,6 @@ serve.ps1
 # Old design prototypes (kept on this computer only)
 prototypes/
 
-.vercel
-
+# Vercel
 .vercel
 .env*
