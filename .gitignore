@@ -6,3 +6,6 @@ serve.ps1
 prototypes/
 
 .vercel
+
+.vercel
+.env*

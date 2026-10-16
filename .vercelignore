@@ -1,0 +1,5 @@
+# Only the website itself gets deployed
+.claude/
+serve.ps1
+prototypes/
+.env*
